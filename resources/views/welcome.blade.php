@@ -84,7 +84,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                CSIT 2073
+                CSIT 2073 123
             </div>
 
             <div class="links">
